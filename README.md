@@ -11,7 +11,7 @@ sequence of consecutive compositions of f(0) stays bounded. Single composition i
 # What's the point?
 
 The set itself represents a **fractal** which is a geometric shape with property of self-similarity. Not only it
-is aesthetically pleasing admiring such objects but they are also useful to study for image compression branch.
+is aesthetically pleasing to admire such objects but they are also useful to study for image compression branch.
 One can find more information about [fractals](https://en.wikipedia.org/wiki/Fractal)
 or [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) on our beloved wikipedia.
 
