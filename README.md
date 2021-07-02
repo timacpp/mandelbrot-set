@@ -20,3 +20,16 @@ or [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) on our beloved
 Main problem lies under the idea of checking whether the sequence is bounded. Obviously, we can not compute infinitely many compositions,
 therefore we set some bounding number of iterations. Each number inside the set is located within circle a |z| <= 2.
 Putting all together, we iterate at most fixed number of times and exclude numbers that have norm less than 4.
+
+# What is SFML?
+
+**S**imple and **F**ast **M**ultimedia **L**ibary - full naming says everything for itself. [Here](https://www.sfml-dev.org/) you can find detailed
+information concerning the library, including handy documentation. Windows installation is covered on their website. As for Linux you directly install package:
+
+<p align="center">
+  sudo apt-get install libsfml-dev
+</p>
+
+and include it's content to CMake as shown in source code of my CMakeLists.txt.
+
+          
