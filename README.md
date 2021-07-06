@@ -18,8 +18,8 @@ or [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) on our beloved
 # How to plot it?
 
 Main problem lies under the idea of checking whether the sequence is bounded. Obviously, we can not compute infinitely many compositions,
-therefore we set some bounding number of iterations. Each number inside the set is located within circle a |z| <= 2.
-Putting all together, we iterate at most fixed number of times and exclude numbers that have norm less than 4.
+therefore we set some bounding number of iterations. Each number inside the set is located within a circle |z| <= 2.
+Putting all together, we iterate at most fixed number of times and exclude numbers that have norm greater than 4.
 
 # What is SFML?
 
