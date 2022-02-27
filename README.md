@@ -32,6 +32,6 @@ information concerning the library, including handy documentation. Windows insta
 
 and include it's content to CMake as shown in source code of my CMakeLists.txt.
 
-# Planned modifications
+# What's next?
 
-The project itself is without a doubt quite simple. Therefore, I'm planning to add improve fractal coloring, implement zooming and compute picture concurrently.
+The project itself is without a doubt quite simple. Therefore, I'm planning to better fractal coloring, implement zooming and compute picture concurrently. Stay tuned!
