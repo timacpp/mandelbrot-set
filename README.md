@@ -6,7 +6,9 @@ It's a set of all possible **complex** values of some number c, such that for fu
   f(z) = z^2 + c
 </p>
 
-sequence of consecutive compositions of f(0) stays bounded. Single composition is defined as f(f(0)).
+sequence of consecutive compositions of f(0) stays bounded. My program visualizes the set as following:
+
+![alt text](https://github.com/timacpp/mandelbrot-set/blob/main/preview.png?raw=true)
 
 # What's the point?
 
