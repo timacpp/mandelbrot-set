@@ -1,4 +1,4 @@
-# What is Mandelbrot set?
+# What is the Mandelbrot set?
 
 It's a set of all possible **complex** values of some number c, such that for function f described as
 
@@ -6,7 +6,7 @@ It's a set of all possible **complex** values of some number c, such that for fu
   f(z) = z^2 + c
 </p>
 
-sequence of consecutive compositions of f(0) stays bounded. My program visualizes the set as following:
+a sequence of consecutive compositions of f(0) stays bounded. My program visualizes the set as following:
 
 ![alt text](https://github.com/timacpp/mandelbrot-set/blob/main/preview.png?raw=true)
 
